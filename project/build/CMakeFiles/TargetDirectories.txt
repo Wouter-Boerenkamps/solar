@@ -1,0 +1,5 @@
+/home/wouter/Documents/school/indroj/project/build/CMakeFiles/edit_cache.dir
+/home/wouter/Documents/school/indroj/project/build/CMakeFiles/rebuild_cache.dir
+/home/wouter/Documents/school/indroj/project/build/src/CMakeFiles/solar_app.dir
+/home/wouter/Documents/school/indroj/project/build/src/CMakeFiles/edit_cache.dir
+/home/wouter/Documents/school/indroj/project/build/src/CMakeFiles/rebuild_cache.dir
